@@ -1,4 +1,4 @@
-##BC09-Phats lax - bai tap chia component
+##BC09-Lã Văn Tuấn Phát - Bài tập chia component
 
 # Getting Started with Create React App
 
